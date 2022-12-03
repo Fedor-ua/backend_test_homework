@@ -1,1 +1,2 @@
-print('Я домашка'
+# coding=utf-8
+print('Я домашка')
